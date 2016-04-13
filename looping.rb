@@ -1,5 +1,6 @@
 def looping
-	#your code here
+        loop do
+    puts "Wingardim Leviosa"
+ end
 end
-
-#call your method here
+looping
